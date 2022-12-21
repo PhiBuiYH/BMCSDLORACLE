@@ -1,0 +1,35 @@
+CREATE USER tin IDENTIFIED BY 123;
+GRANT CREATE SESSION TO tin;
+ALTER USER tin QUOTA UNLIMITED ON users; 
+GRANT ALL PRIVILEGES TO tin; 
+
+
+-- Tạo main_role và gán quyền connect --
+create role main_role;
+GRANT connect TO main_role; 
+
+-- Tạo và gán main_role cho user xacthuc (Xác Thực) 
+CREATE USER xacthuc IDENTIFIED BY 123; 
+GRANT main_role TO xacthuc; 
+ 
+-- Tạo và gán main_role cho user xetduyet (Xét Duyệt) 
+CREATE USER xetduyet IDENTIFIED BY 123; 
+GRANT main_role TO xetduyet; 
+ 
+-- Tạo và gán main_role cho user luutru (Lưu Trữ) 
+CREATE USER luutru IDENTIFIED BY 123; 
+GRANT main_role TO luutru; 
+ 
+-- Tạo và gán main_role cho user giamsat (Giám Sát) 
+CREATE USER giamsat IDENTIFIED BY 123; 
+GRANT main_role TO giamsat;
+
+GRANT select, insert, update ON TIN.PASSPORTDATA TO xacthuc;
+GRANT select, insert, update ON TIN.PASSPORTDATA TO xetduyet;
+GRANT select, insert, update ON TIN.PASSPORTDATA TO luutru;
+GRANT select, insert, update ON TIN.PASSPORTDATA TO giamsat;
+
+GRANT select, insert, update ON TIN.RESIDENT TO xacthuc;
+GRANT select, insert, update ON TIN.RESIDENT TO xetduyet;
+GRANT select, insert, update ON TIN.RESIDENT TO luutru;
+GRANT select, insert, update ON TIN.RESIDENT TO giamsat;

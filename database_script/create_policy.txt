@@ -1,0 +1,124 @@
+--Dành cho bộ phận xác thực
+create or replace function bao_mat_nhan_vien_xac_thuc (p_schema in varchar2, p_obj in varchar2)
+return varchar2 
+as 
+	lv_user varchar2(100);
+	roleUser number;
+	lv_predicate varchar2(1000);
+begin
+	select role into roleUser from tin.taikhoan where UPPER(taikhoan.taikhoan)= (select user from dual);
+	if roleUser='0' then
+		lv_predicate:='1=2';
+	else
+		lv_predicate:='1=1';
+	end if;
+	return lv_predicate;
+end;
+
+BEGIN 
+	DBMS_RLS.add_policy 
+	(
+		object_schema			=> 'tin',
+		object_name			=> 'PASSPORTDATA',
+		policy_name        		=> 'Bao_Mat_Xac_Thuc',
+		policy_function    		=> 'bao_mat_nhan_vien_xac_thuc',
+		statement_types    		=> 'SELECT',
+		sec_relevant_cols		=> 'ID,TTXETDUYET,TTXACTHUC,TTTHONGBAO,IDUSERXT,IDUSERXD,IDUSERTT',
+		sec_relevant_cols_opt	=> dbms_rls.ALL_ROWS
+	); 
+END; 
+
+BEGIN 
+	DBMS_RLS.drop_policy   
+	(
+		object_schema		=> 'tin', 
+		object_name		=> 'PASSPORTDATA', 
+		policy_name		=> 'Bao_Mat_Xac_Thuc'
+	); 
+END;
+
+
+--Dành cho bộ phận xét duyệt
+create or replace function bao_mat_nhan_vien_xet_duyet (p_schema in varchar2, p_obj in varchar2)
+return varchar2 
+as 
+	lv_user varchar2(100);
+	roleUser number;
+	lv_predicate varchar2(1000);
+begin
+	select role into roleUser from tin.taikhoan where UPPER(taikhoan.taikhoan)= (select user from dual);
+	if roleUser='1' then
+		lv_predicate:='1=2';
+	else
+		lv_predicate:='1=1';
+	end if;
+    
+	return lv_predicate; 
+end;
+
+
+BEGIN 
+	DBMS_RLS.add_policy 
+	(
+		object_schema		=> 'tin',
+		object_name		=> 'RESIDENT',
+		policy_name		=> 'Bao_Mat_Xet_Duyet_RESIDENT',
+		policy_function    => 'bao_mat_nhan_vien_xet_duyet',
+		statement_types    => 'SELECT'
+	); 
+END; 
+
+BEGIN 
+	DBMS_RLS.drop_policy
+	(
+		object_schema		=> 'tin', 
+		object_name		=> 'RESIDENT', 
+		policy_name		=> 'Bao_Mat_Xet_Duyet_RESIDENT'
+	); 
+END;
+
+
+
+--Dành cho bộ phận lưu trữ
+create or replace function bao_mat_nhan_vien_luu_tru (p_schema in varchar2, p_obj in varchar2)
+return varchar2 
+as 
+	lv_user varchar2(100);
+	roleUser number;
+	lv_predicate varchar2(1000);
+begin
+	select user into lv_user from dual;
+	select role into roleUser from tin.taikhoan where UPPER(taikhoan.taikhoan)= (select user from dual);
+	if roleUser='2' then
+		lv_predicate:='1=2';
+	else
+		lv_predicate:='1=1';
+	end if;
+	return lv_predicate;
+end;
+
+
+BEGIN 
+	DBMS_RLS.add_policy 
+	(
+		object_schema		=> 'tin',
+		object_name			=> 'PASSPORTDATA',
+		policy_name			=> 'Bao_Mat_Luu_Tru',
+		function_schema		=> 'truong',
+		policy_function		=> 'bao_mat_nhan_vien_luu_tru',
+		statement_types		=> 'SELECT',
+		sec_relevant_cols		=> 'HOTEN,DIACHI,PHAI,CMND,DIENTHOAI,EMAIL,GHICHU,IDUSERXT,IDUSERXD,TTTHONGBAO,IDUSERTT',
+		sec_relevant_cols_opt	=> dbms_rls.ALL_ROWS
+	); 
+END;
+
+BEGIN 
+	DBMS_RLS.drop_policy
+	(
+		object_schema	=> 'tin', 
+		object_name		=> 'PASSPORTDATA', 
+		policy_name		=> 'Bao_Mat_Luu_Tru'
+	); 
+END;
+
+

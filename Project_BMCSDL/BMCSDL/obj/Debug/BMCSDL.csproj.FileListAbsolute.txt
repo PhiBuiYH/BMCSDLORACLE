@@ -1,0 +1,154 @@
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe.config
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\BMCSDL.pdb
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.Form1.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangKyPP.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangNhap.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormGS.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormLuuTru.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormTraThongTin.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXacThuc.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXetDuyet.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.MainForm.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.Properties.Resources.resources
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CopyComplete
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.exe
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.pdb
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormThongTinPassPort.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe.config
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.pdb
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Buffers.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Memory.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Json.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.dll
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Buffers.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Memory.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Json.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.xml
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.AssemblyReference.cache
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.Form1.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangKyPP.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangNhap.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormGS.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormLuuTru.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormThongTinPassPort.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormTraThongTin.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXacThuc.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXetDuyet.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.MainForm.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.Properties.Resources.resources
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.GenerateResource.cache
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CoreCompileInputs.cache
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CopyComplete
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.exe
+C:\Users\phiph\OneDrive\Máy tính\BMCSDL-main\BMCSDL-main\BCCK_BMCSDL_18110306_18110384\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.pdb
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe.config
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.pdb
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Buffers.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Memory.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Json.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.dll
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Buffers.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Memory.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Json.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.xml
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangKyPP.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangNhap.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormGS.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormLuuTru.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormThongTinPassPort.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormTraThongTin.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXacThuc.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXetDuyet.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.MainForm.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.Properties.Resources.resources
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.GenerateResource.cache
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CoreCompileInputs.cache
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CopyComplete
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.exe
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.pdb
+E:\HKI_2022-2023\Bảo Mật CSDL\CuoiKy\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.AssemblyReference.cache
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe.config
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.exe
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\BMCSDL.pdb
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Buffers.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Memory.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Json.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.dll
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Buffers.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Memory.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Numerics.Vectors.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Text.Json.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\bin\Debug\System.ValueTuple.xml
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangKyPP.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormDangNhap.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormGS.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormLuuTru.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormThongTinPassPort.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormTraThongTin.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXacThuc.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.FormXetDuyet.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.MainForm.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.Properties.Resources.resources
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.GenerateResource.cache
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CoreCompileInputs.cache
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.csproj.CopyComplete
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.exe
+D:\Project & Script\Project & Script\Project_BMCSDL\BMCSDL\obj\Debug\BMCSDL.pdb
